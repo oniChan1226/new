@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: cursive;
+}
+
+@media (min-width: 0px) and (max-width: 768px) {
+    .nav-links-custom{
+        display: none;
+    }
+}
